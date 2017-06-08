@@ -5,7 +5,7 @@
 
 module.exports = {
 	server_port: 3000,
-	db_url: 'mongodb://localhost:27017/local',
+	db_url: 'mongodb://test01:<dbpassword>@ds115712.mlab.com:15712/heroku_s75xp1qn',
 	db_schemas: [
         {file:'./user_schema', collection:'users6', schemaName:'UserSchema', modelName:'UserModel'}
         ,{file:'./post_schema', collection:'post', schemaName:'PostSchema', modelName:'PostModel'}
