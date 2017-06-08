@@ -3,8 +3,8 @@
  * 
  * 기본 게시판 기능 구현
  *
- * @date 2016-11-10
- * @author Mike
+ * @date 2017-6-09
+ * @Thanks to Mike
  */
  
 
